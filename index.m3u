@@ -11,8 +11,5 @@
 #EXTM3U url-tvg="https://manhkendo.000webhostapp.com/epgvn/lichtv/homnay.xml" tvg-shift=0 m3uautoload=8
 #EXTM3U url-tvg="http://gg.gg/fptepg" tvg-shift=0 m3uautoload=9
 
-#EXTINF:0 tvg-id="cinemaxhd" group-title="🅼🅾🆅🅸🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-9000.m3u8",Cinemax
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-#https://iptvhthanh.000webhostapp.com/hplusht.php?id=104352
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:0  tvg-id="cinemaworldhd" group-title="🅼🅾🆅🅸🅴" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
+https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
